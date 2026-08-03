@@ -228,7 +228,7 @@ ul { margin: 0; padding: 0; }
   position: relative;
   color: #fff;
   background: linear-gradient(120deg, rgba(15, 23, 42, 0.92), rgba(37, 99, 235, 0.78)),
-    url("../images/hero-banner.jpg") center/cover no-repeat;
+    url("hero-banner.jpg") center/cover no-repeat;
   overflow: hidden;
 }
 .hero__inner {
