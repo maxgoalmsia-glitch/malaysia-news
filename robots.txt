@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block nothing sensitive — this is a public news portal.
+Disallow:
+
+Sitemap: https://www.malaysiasportshub.com/sitemap.xml
