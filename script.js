@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Malaysia Sports Hub — script.js
+   Maxgoalasia — script.js
    Sticky header · Mobile menu · Smooth scroll · Back to top · Reveal · Forms
    Vanilla JS, no dependencies.
    ========================================================================== */
