@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Maxgoalasia — script.js
+   Maxgoalasia 288 — script.js
    Sticky header · Mobile menu · Smooth scroll · Back to top · Reveal · Forms
    Vanilla JS, no dependencies.
    ========================================================================== */
